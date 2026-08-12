@@ -1,0 +1,15 @@
+{
+	"name": "adf-cicd-dev-1234",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4274fb1-cd98-47fa-8ab7-c164c6c4be44",
+		"tenantId": "23d8ab78-77e1-4903-862e-d148845b26eb"
+	}
+}
